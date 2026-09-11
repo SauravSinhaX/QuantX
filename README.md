@@ -1,5 +1,7 @@
 # Alpaca Trading Committee — AI Risk Governor
 
+View the app demo: https://alpaca-trading-committee.vercel.app/
+
 An advanced AI-powered trading system built on the **Alpaca** paper-trading API, implementing the **Trading Committee + Risk Governor** architecture:
 
 ```
