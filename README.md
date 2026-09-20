@@ -2,6 +2,8 @@
 
 View the app demo: https://alpaca-trading-committee.vercel.app/
 
+<img alt="Process Flow" src="https://github.com/SauravSinhaX/QuantX/blob/alpaca_ai/public/Process_flow.png" />
+
 An advanced AI-powered trading system built on the **Alpaca** paper-trading API, implementing the **Trading Committee + Risk Governor** architecture:
 
 ```
